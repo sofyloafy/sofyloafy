@@ -1,8 +1,6 @@
 
 ![image](https://raw.githubusercontent.com/sofyloafy/sofyloafy/master/GitHubHeaderWithWave.png)
 
-<br><br>
-
 ## A little bit about me 💃
 - :telescope: I’m currently working on TDD-ing the same project in two [different testing styles](https://devlead.io/DevTips/LondonVsChicago).
 - :seedling: I’m currently learning [React](https://react-tetris-3000.netlify.app/) and Kotlin
