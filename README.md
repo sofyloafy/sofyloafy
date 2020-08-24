@@ -1,5 +1,5 @@
-<img src="./sofyloafy/sofyloafy/GitHubHeaderWithWave.png">
-<img src="http://raw.githubusercontent.com/sofyloafy/sofyloafy/master/GitHubHeaderWithWave.png">
+
+![image](https://raw.githubusercontent.com/sofyloafy/sofyloafy/master/GitHubHeaderWithWave.png)
 
 
 - :telescope: I’m currently working on TDD-ing the same project in two [different testing styles](https://devlead.io/DevTips/LondonVsChicago).
