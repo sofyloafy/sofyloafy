@@ -6,6 +6,5 @@
 - :seedling: I’m currently learning [React](https://react-tetris-3000.netlify.app/) and Kotlin
 - :dancers: I’m looking to collaborate on a project that uses the MERN tech stack with large volumes of data
 - :speech_balloon: Ask me about changing gears from a pastry chef at Ottlenghi to a software engineer, and how maybe they aren’t so different :cake:
-- :mailbox: How to reach me: sophiebrown438@gmail.com // 075 274 113 08
 <br><br>
 #### [Learn more](https://sofy-loafy.herokuapp.com/) 🕵️
